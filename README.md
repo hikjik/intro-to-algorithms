@@ -1,1 +1,1 @@
-# intro-to-algorithms
+# Введение в алгоритмы
